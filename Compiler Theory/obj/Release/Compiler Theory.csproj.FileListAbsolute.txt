@@ -1,0 +1,22 @@
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.exe.config
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Scanner.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Properties.Resources.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.csproj.GenerateResource.Cache
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.exe
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.pdb
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.CompilerTheory.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Parser.resources
+C:\Users\Mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Semantic.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.exe.config
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Release\Compiler Theory.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.CompilerTheory.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Parser.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Scanner.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Properties.Resources.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler_Theory.Semantic.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Release\Compiler Theory.pdb

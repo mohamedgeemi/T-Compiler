@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Compiler_Theory.Scanner">
+    <Position X="4.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAoAAACAQAACAAA0AAEAACABAAAAAAA=</HashCode>
+      <FileName>Scanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compiler_Theory.OpenFile">
+    <Position X="4.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>OpenFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compiler_Theory.CompilerScanner">
+    <Position X="1" Y="0.5" Width="3.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Compiler_Theory.CompilerScanner.ReservedWords">
+        <TypeIdentifier>
+          <NewMemberFileName>CompilerScanner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Compiler_Theory.CompilerScanner.TokenType">
+        <TypeIdentifier>
+          <NewMemberFileName>CompilerScanner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Struct Name="Compiler_Theory.CompilerScanner.SpecialSymbols">
+        <TypeIdentifier>
+          <NewMemberFileName>CompilerScanner.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAEBAAAAAABAAAAAECAAAAAAAJAAAAAAAAIQFAAAAA=</HashCode>
+      <FileName>CompilerScanner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

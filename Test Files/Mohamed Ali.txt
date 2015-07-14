@@ -1,0 +1,7 @@
+c=2;
+If(c=2)Then
+	c:=c+1;
+	If(c>5)Then
+		Write c
+	End
+End

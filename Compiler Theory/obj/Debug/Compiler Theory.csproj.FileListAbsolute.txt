@@ -1,0 +1,36 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Scanner.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csprojResolveAssemblyReference.cache
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe.config
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.pdb
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.CompilerTheory.resources
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Parser.resources
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Scanner.resources
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Properties.Resources.resources
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Semantic.resources
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csproj.GenerateResource.Cache
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.exe
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.pdb
+E:\FCIS\4th Year\Tasks\Compiler\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe.config
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.CompilerTheory.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Parser.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Scanner.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Properties.Resources.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler_Theory.Semantic.resources
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.exe
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.pdb
+C:\Users\Mohamed\Documents\bitbucket\fourth-year\1st Semester\compiler-project\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.csprojResolveAssemblyReference.cache
+D:\Subjects Matrials\Fourth year\First Term\Compilers\Project\fourthyear-compiler-project-0e4ede71ac0e\Compiler Theory\Compiler Theory\bin\Debug\Compiler Theory.exe.config
+D:\Subjects Matrials\Fourth year\First Term\Compilers\Project\fourthyear-compiler-project-0e4ede71ac0e\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.exe
+D:\Subjects Matrials\Fourth year\First Term\Compilers\Project\fourthyear-compiler-project-0e4ede71ac0e\Compiler Theory\Compiler Theory\obj\Debug\Compiler Theory.pdb

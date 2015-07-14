@@ -1,0 +1,5 @@
+/* Char definition */
+
+X := 'C';
+Y := 'Y';
+Z := 'Z'

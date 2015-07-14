@@ -1,0 +1,10 @@
+If 0<x Then
+	fact:=1;
+	Repeat
+		fact:=fact*x;
+		x := x-1
+	Until x = 0;
+	Write fact 
+End
+
+/*good code*/
